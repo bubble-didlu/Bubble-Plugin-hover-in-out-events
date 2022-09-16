@@ -1,0 +1,29 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 1,
+        "width": 1
+    },
+    "display": "hoverListener",
+    "events": {
+        "AAE": {
+            "caption": "on mouse over",
+            "name": "on_mouse_over"
+        },
+        "AAG": {
+            "caption": "on mouse out",
+            "name": "on_mouse_out"
+        }
+    },
+    "fields": {
+        "AAD": {
+            "caption": "element_id",
+            "editor": "DynamicValue",
+            "name": "element_id",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "icon": "ion-mouse"
+}

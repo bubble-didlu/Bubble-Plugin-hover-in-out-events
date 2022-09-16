@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "technical"
+    },
+    "description": "2 events\n- on mouse over\n- on mouse out\n\nwaits the element to show up, so fixes the occasional bug with hover actions that it does not trigger the hover event.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1663293867154x519433926437719700/istockphoto-1068307150-612x612.jpg",
+    "license": "open_source",
+    "name": "hover in/out events",
+    "plugin_instructions": "just place the hoverListener and set the element_id you want it to observe. Use mouse_over and mouse_out events to trigger whatever actions you choose"
+}
